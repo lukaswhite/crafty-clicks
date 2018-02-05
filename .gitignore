@@ -1,0 +1,7 @@
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+composer.lock
+/report

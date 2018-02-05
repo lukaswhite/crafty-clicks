@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CraftyResponse>
+    <address_data_formatted>
+        <delivery_point>
+            <organisation_name></organisation_name>
+            <department_name></department_name>
+            <line_1>1 ST. MARYS WALK</line_1>
+            <line_2></line_2>
+            <line_3></line_3>
+            <udprn>22402595</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name></organisation_name>
+            <department_name></department_name>
+            <line_1>2 ST. MARYS WALK</line_1>
+            <line_2></line_2>
+            <line_3></line_3>
+            <udprn>22402598</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name></organisation_name>
+            <department_name></department_name>
+            <line_1>3 ST. MARYS WALK</line_1>
+            <line_2></line_2>
+            <line_3></line_3>
+            <udprn>22402599</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name></organisation_name>
+            <department_name></department_name>
+            <line_1>4 ST. MARYS WALK</line_1>
+            <line_2></line_2>
+            <line_3></line_3>
+            <udprn>22402600</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name></organisation_name>
+            <department_name></department_name>
+            <line_1>5 ST. MARYS WALK</line_1>
+            <line_2></line_2>
+            <line_3></line_3>
+            <udprn>22402601</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name></organisation_name>
+            <department_name></department_name>
+            <line_1>6 ST. MARYS WALK</line_1>
+            <line_2></line_2>
+            <line_3></line_3>
+            <udprn>22402602</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name></organisation_name>
+            <department_name></department_name>
+            <line_1>7 ST. MARYS WALK</line_1>
+            <line_2></line_2>
+            <line_3></line_3>
+            <udprn>22402603</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name></organisation_name>
+            <department_name></department_name>
+            <line_1>8 ST. MARYS WALK</line_1>
+            <line_2></line_2>
+            <line_3></line_3>
+            <udprn>22402604</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name></organisation_name>
+            <department_name></department_name>
+            <line_1>9 ST. MARYS WALK</line_1>
+            <line_2></line_2>
+            <line_3></line_3>
+            <udprn>22402605</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name></organisation_name>
+            <department_name></department_name>
+            <line_1>10 ST. MARYS WALK</line_1>
+            <line_2></line_2>
+            <line_3></line_3>
+            <udprn>22402596</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name></organisation_name>
+            <department_name></department_name>
+            <line_1>11 ST. MARYS WALK</line_1>
+            <line_2></line_2>
+            <line_3></line_3>
+            <udprn>22402597</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name>DOUGLAS TECHNOLOGY LTD</organisation_name>
+            <department_name></department_name>
+            <line_1>ST. ANDREWS HOUSE</line_1>
+            <line_2>ST. MARYS WALK</line_2>
+            <line_3></line_3>
+            <udprn>22402609</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name></organisation_name>
+            <department_name></department_name>
+            <line_1>14-16</line_1>
+            <line_2>ST. MARYS WALK</line_2>
+            <line_3></line_3>
+            <udprn>22402593</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name>K M A TEXTILES</organisation_name>
+            <department_name></department_name>
+            <line_1>ST. ANDREWS HOUSE</line_1>
+            <line_2>ST. MARYS WALK</line_2>
+            <line_3></line_3>
+            <udprn>22402610</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name>MARC DANIELS RECRUITMENT</organisation_name>
+            <department_name></department_name>
+            <line_1>ST. ANDREWS HOUSE</line_1>
+            <line_2>ST. MARYS WALK</line_2>
+            <line_3></line_3>
+            <udprn>53578078</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name>PORTMAN DENTAL CARE</organisation_name>
+            <department_name></department_name>
+            <line_1>ST. ANDREWS HOUSE</line_1>
+            <line_2>ST. MARYS WALK</line_2>
+            <line_3></line_3>
+            <udprn>53578080</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name>CRAFTY CLICKS LTD</organisation_name>
+            <department_name></department_name>
+            <line_1>ST. ANDREWS HOUSE</line_1>
+            <line_2>ST. MARYS WALK</line_2>
+            <line_3></line_3>
+            <udprn>53875002</udprn>
+        </delivery_point>
+        <delivery_point>
+            <organisation_name>DUMMY COMPANY</organisation_name>
+            <department_name>FINANCE</department_name>
+            <line_1>ST. ANDREWS HOUSE</line_1>
+            <line_2>ST. MARYS WALK</line_2>
+            <line_3>ST. MARYS LANE</line_3>
+            <udprn>53875005</udprn>
+        </delivery_point>
+        <delivery_point_count>18</delivery_point_count>
+        <town>MAIDENHEAD</town>
+        <postal_county>BERKSHIRE</postal_county>
+        <traditional_county>BERKSHIRE</traditional_county>
+        <postcode>SL6 1QZ</postcode>
+    </address_data_formatted>
+</CraftyResponse>

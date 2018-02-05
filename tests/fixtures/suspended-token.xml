@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CraftyResponse>
+    <error_code>8005</error_code>
+    <error_msg>This token is suspended.</error_msg>
+</CraftyResponse>
